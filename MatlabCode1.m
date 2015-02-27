@@ -1,5 +1,5 @@
 % EE3370 Project 1
-% MATLAB code for EE370 Project 1
+% MATLAB code for Project 1
 % Anthony Beltran
 % 2/27/2015
 
